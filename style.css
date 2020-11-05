@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif, Arial, Helvetica;
+    color: #B23535;
+}
+
+form {
+    width: 500px;
+    margin: 10px auto;
+    margin-top: 70px;
+    padding: 15px 15px;
+    background: #000;
+    padding-bottom: 55px;
+    border-radius: 25px;
+}
+
+h1 {
+    margin: 6px 0 4px 16px;
+    font-size: 26px;
+    text-align: center;
+    color: #fff;
+}
+
+input[type="text"], input[type="email"], textarea {
+    border: none;
+    font-size: 18px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 8px;
+    width: 100px;
+    background-color: #e8eeef;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 12px 22px 12px 22px;
+    color: #fff;
+    background-color: #B23535;
+    font-size: 24px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 30%;
+    border: 1px solid #a30000;
+    border-width: 1px 1px 3px;
+    border-style: none;
+}
+
+fieldset {
+    margin-bottom: 10px;
+    border: none;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #08a3d9;
+    font-weight: bold;
+}
+
+#clear {
+    padding: 12px 22px 12px 22px;
+    color: #000;
+    background-color: yellow;
+    font-size: 24px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 30%;
+    border: 1px solid #a30000;
+    border-width: 1px 1px 3px;
+    border-style: none;
+}
